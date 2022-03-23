@@ -8,16 +8,9 @@ export default class AudioDraw {
 
 		const audioCtx = new AudioContext();
 		const audioSrc = audioCtx.createMediaStreamSource(audioStream);
-
 		const analyser = audioCtx.createAnalyser();
-		const gain = audioCtx.createGain();
 
-		audioSrc
-			.connect(analyser)
-			.connect(gain)
-			.connect(audioCtx.destination);
-
-		gain.gain.value = 0; // Lets not hear what the mic captures
+		audioSrc.connect(analyser)
 		analyser.fftSize = 2048; // should be default, but just in case
 
 		this.state = {
