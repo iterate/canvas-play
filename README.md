@@ -24,23 +24,34 @@ https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
 
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
 
-## Innlevering
+## Koding og innlevering
 
 Her velger dere litt selv. Dere kan presentere på egen PC, eller vi kan vise på
-vår.
+vår. For å komme i gang, bestem et gruppenavn. Velg gjerne noe annet enn BANAN
+:)
 
-Hvis dere skal vise på vår, send repoet deres som Zip til `teodor@iterate.no`
-(hele repoet, inkludert README.md og sånn). Eller dere kan lage en pull request
-som legger til greiene deres i $GRUPPENAVN ved siden av de andre filene. Hvis
-dere heter BANAN, ser repoet sånn ut:
+```bash
+GRUPPENAVN=BANAN
+cp -r template $GRUPPENAVN/
+```
 
-index.html
-GRUPPENAVN/
-mic/
-mouse/
-package.json
-package-lock.json
-README.md
-template/
+Da kan dere kode i `$GRUPPENAVN`. Hvis dere skal levere med PR, blir dette
+lettere for oss å ta imot.
+
+Dere kan levere med PR eller på mail.
+
+**Mail**: send en zip med filene deres til `teodor@iterate.no`
+
+**PR**: lag PR til https://github.com/iterate/canvas-play med koden deres under
+`$GRUPPENAVN/`. For `BANAN` (ikke velg gruppenavn BANAN alle sammen, da):
+
+    BANAN/
+    index.html
+    mic/
+    mouse/
+    package.json
+    package-lock.json
+    README.md
+    template/
 
 Bare la `index.html` på toppnivå være - da unngår vi merge-konflikter.
