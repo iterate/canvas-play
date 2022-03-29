@@ -23,3 +23,22 @@ webteknologi. Her er to lenker for å få dere i gang med `<canvas>`-elementet:
 https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
 
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
+
+## Innlevering
+
+Her velger dere litt selv. Dere kan presentere på egen PC, eller vi kan vise på
+vår.
+
+Hvis dere skal vise på vår, send repoet deres som Zip til teodor@iterate.no
+(hele repoet, inkludert README.md og sånn). Eller dere kan lage en pull request
+som legger til greiene deres i $GRUPPENAVN ved siden av de andre filene. Hvis
+dere heter BANAN, ser repoet sånn ut:
+
+index.html
+GRUPPENAVN/
+mic/
+mouse/
+package.json
+package-lock.json
+README.md
+template/
