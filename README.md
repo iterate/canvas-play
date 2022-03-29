@@ -1,4 +1,4 @@
-# Lek med %3Ccanvas%3E
+# Lek med `<canvas>`
 
 _IV-dagene 2022_
 
