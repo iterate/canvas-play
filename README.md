@@ -15,7 +15,7 @@ Start dev-server:
 Nå kjører du en dev-server på en lokal port. Se hva som skjer i terminalen hvis
 du ikke får åpnet en nettleser.
 
-## Hvordan å bruke <canvas>-elementet
+## Hvordan å bruke `<canvas>`-elementet
 
 Mozilla Developer Network (MDN) er en flott (den beste?) ressursen for å lære
 webteknologi. Her er to lenker for å få dere i gang med `<canvas>`-elementet:
