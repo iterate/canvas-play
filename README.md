@@ -20,7 +20,7 @@ du ikke får åpnet en nettleser.
 Mozilla Developer Network (MDN) er en flott (den beste?) ressursen for å lære
 webteknologi. Her er to lenker for å få dere i gang med `<canvas>`-elementet:
 
-[API-doc for CanvasRenderingContext2D][mdn1] - [Guide: stilsetting av canvas][mdn2]
+[API-doc for CanvasRenderingContext2D][mdn1] | [Guide: stilsetting av canvas][mdn2]
 
 [mdn1]: https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D
 [mdn2]: https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
