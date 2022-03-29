@@ -29,7 +29,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_st
 Her velger dere litt selv. Dere kan presentere på egen PC, eller vi kan vise på
 vår.
 
-Hvis dere skal vise på vår, send repoet deres som Zip til teodor@iterate.no
+Hvis dere skal vise på vår, send repoet deres som Zip til `teodor@iterate.no`
 (hele repoet, inkludert README.md og sånn). Eller dere kan lage en pull request
 som legger til greiene deres i $GRUPPENAVN ved siden av de andre filene. Hvis
 dere heter BANAN, ser repoet sånn ut:
