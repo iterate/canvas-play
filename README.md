@@ -42,3 +42,5 @@ package.json
 package-lock.json
 README.md
 template/
+
+Bare la `index.html` på toppnivå være - da unngår vi merge-konflikter.
