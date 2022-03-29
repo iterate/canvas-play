@@ -4,6 +4,11 @@ _IV-dagene 2022_ - iterate.no
 
 ## Få en nettleser som viser endringene dine når du lagerer:
 
+Du kan åpne HTML-filene direkte, det går helt fint. Men hvis du vil se ting på
+nytt når du trykker ctrl+s, les under. Krever at du har installert [Node.js][node]
+
+[node]: https://nodejs.org/en/
+
 Installer avhengigheter (`live-server`):
 
     $ npm i
